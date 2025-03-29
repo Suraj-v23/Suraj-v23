@@ -36,3 +36,10 @@
     <a href="https://github.com/Suraj-v23/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:v.suraj2398@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suraj-v23/Suraj-v23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suraj-v23/Suraj-v23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Suraj-v23/Suraj-v23/output/github-snake.svg" />
+</picture>
