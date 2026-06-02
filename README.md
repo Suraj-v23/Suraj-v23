@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suraj Verma 👋</h1>
-<h3 align="center">Senior Full Stack Engineer · AEM · AI-Native Developer · Building at the intersection of CMS & AI</h3>
+<h3 align="center">Senior Full Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-verma23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
